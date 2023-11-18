@@ -39,7 +39,7 @@ python manage.py runserver
  
   <li>http://localhost:8000/api/schema/</li> 
   <li>http://localhost:8000/api/docs/</li>
- 
+ <br>
  API
  
   <li>http://localhost:8000/api/categories - список Категорий блюд</li>
