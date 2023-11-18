@@ -9,14 +9,14 @@
 
 Клонируем проект в заранее созданную директорию SimpleChat_proj
 ```bash
-git clone https://github.com/ZakharovAlexA/SimpleChat.git
+git clone https://github.com/ZakharovAlexA/ZAA-cookbook.git
 ```
 
 Из директории SimpleChat_proj запускаем и настраиваем виртуальное окружение проекта
 ```bash
 python -m venv venv
 venv\scripts\activate
-cd .\SimpleChat\ 
+cd .\cookbook_backend\ 
 pip install -r requirements.txt
 ```
 
