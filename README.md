@@ -33,6 +33,7 @@ python manage.py runserver
 ```
 
 На сервере доступны:
+<br>
 автодокументация OpenAPI+Swagger
 <ul> 
   <li>http://localhost:8000/api/schema/</li> 
