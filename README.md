@@ -38,3 +38,8 @@ python manage.py runserver
 ```bash
 npm i
 ```
+
+
+<br>
+
+:arrow_up: [в начало](README.md#ZAA-cookbook)
