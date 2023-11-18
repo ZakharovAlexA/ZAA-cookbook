@@ -5,12 +5,11 @@
 
 Инструция составлена для операционной системы Windows.<br>
 
-<H3>Backend</H3>
-
 Клонируем проект в заранее созданную директорию ZAA-cookbook
 ```bash
 git clone https://github.com/ZakharovAlexA/ZAA-cookbook.git
 ```
+<H3>Backend</H3>
 
 Из директории cookbook_backend запускаем и настраиваем виртуальное окружение проекта
 ```bash
@@ -34,3 +33,8 @@ python manage.py runserver
 ```
 
 <H3>Frontend</H3>
+
+В директории cookbook_frontend запускаем
+```bash
+npm i
+```
