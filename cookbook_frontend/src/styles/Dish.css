@@ -1,0 +1,8 @@
+.dish p {
+    display: block;
+    padding: 20px;
+    width: auto;
+    margin: 50px 25%;
+    border: 1px solid #333332;
+    background-color: rgb(252, 255, 240);
+}

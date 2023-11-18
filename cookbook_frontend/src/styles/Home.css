@@ -1,0 +1,43 @@
+h2 {
+    font-family: "Fira Sans", Georgia, Serif;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: block;
+    padding: 20px;
+    width: auto;
+    margin: 40px 25%;
+    border: 1px solid #333332;
+    background-color: rgba(252, 255, 240, 0.541);
+
+}
+
+li {
+    font-family: "Fira Sans", Georgia, Serif;
+    font-size: large;
+    list-style-type: decimal;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+li a:link {
+    color: #181818;
+}
+
+li a:visited {
+    color: #929292
+}
+
+.isReady {
+    font-family: "Fira Sans", Georgia, Serif;
+    font-size: xx-large;
+    color:aliceblue;
+    background:#333332;
+    margin: 0 25%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

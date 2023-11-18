@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.nav {
+  margin: 0 25%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #534c12da;
+  
+}
+
+.link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  width: 50px;
+  border: 1px solid #333332;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: #423c07;
+}

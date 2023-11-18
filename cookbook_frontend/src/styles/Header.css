@@ -1,0 +1,11 @@
+header {
+    font-family: "Fira Sans", Georgia, Serif;
+    color: rgb(95, 64, 5);
+    background: rgba(196, 214, 133, 0.486);
+    margin: 0 25%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

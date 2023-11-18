@@ -1,0 +1,4 @@
+npx create-react-app cookbook_frontend - щаблон проекта
+
+npm install axios
+npm install react-router-dom --save-dev
