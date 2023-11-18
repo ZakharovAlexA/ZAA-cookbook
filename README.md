@@ -33,15 +33,13 @@ python manage.py runserver
 ```
 
 На сервере доступны:
-
-<ul>
-      автодокументация OpenAPI+Swagger
-    <br>
+автодокументация OpenAPI+Swagger
+<ul> 
   <li>http://localhost:8000/api/schema/</li> 
   <li>http://localhost:8000/api/docs/</li>
-   <br>
-     API
-   <br>
+</ul>
+API
+<ul>
   <li>http://localhost:8000/api/categories - список Категорий блюд</li>
   <li>http://localhost:8000/api/dishes - список Блюд</li>
   <li>http://localhost:8000/api/dish/id - данные из рецепта с номером id</li>
