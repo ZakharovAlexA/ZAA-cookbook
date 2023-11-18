@@ -7,12 +7,12 @@
 
 <H3>Backend</H3>
 
-Клонируем проект в заранее созданную директорию SimpleChat_proj
+Клонируем проект в заранее созданную директорию ZAA-cookbook
 ```bash
 git clone https://github.com/ZakharovAlexA/ZAA-cookbook.git
 ```
 
-Из директории SimpleChat_proj запускаем и настраиваем виртуальное окружение проекта
+Из директории cookbook_backend запускаем и настраиваем виртуальное окружение проекта
 ```bash
 python -m venv venv
 venv\scripts\activate
