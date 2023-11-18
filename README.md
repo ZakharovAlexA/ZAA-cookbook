@@ -44,7 +44,7 @@ python manage.py runserver
  
   <li>http://localhost:8000/api/categories - список Категорий блюд</li>
   <li>http://localhost:8000/api/dishes - список Блюд</li>
-  <li>http://localhost:8000/api/dish/<int:id> - данные из рецепта с номером id</li>
+  <li>http://localhost:8000/api/dish/id - данные из рецепта с номером id</li>
   <li>http://localhost:8000/api/dishes_in/?category=id - список рецептов в Категории</li>
 </ul>
 <br>
