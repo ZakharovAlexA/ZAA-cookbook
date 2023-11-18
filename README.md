@@ -32,13 +32,25 @@ SECRET_KEY = ''
 python manage.py runserver
 ```
 
+На сервере доступны:
+
+<ul>
+ автодокументацию OpenAPI+Swagger
+  <li> http://localhost:8000/api/schema/ </li> 
+  <li>http://localhost:8000/api/docs/</li>
+</ul>
+<br>
+
 <H3>Frontend</H3>
 
 В директории cookbook_frontend запускаем
 ```bash
 npm i
 ```
-
+Запускаем сервер
+```bash
+npm start
+```
 
 <br>
 
