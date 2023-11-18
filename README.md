@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```bash
 python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
 ```
-И вставляем его в .\SimpleChat\settings.py
+И вставляем его в .\cookbook_backend\cookbook_backend\settings.py
 ```python
 SECRET_KEY = ''
 ```
