@@ -34,6 +34,7 @@ python manage.py runserver
 
 На сервере доступны:
 <br>
+<br>
 автодокументация OpenAPI+Swagger
 <ul> 
   <li>http://localhost:8000/api/schema/</li> 
@@ -43,7 +44,7 @@ API
 <ul>
   <li>http://localhost:8000/api/categories - список Категорий блюд</li>
   <li>http://localhost:8000/api/dishes - список Блюд</li>
-  <li>http://localhost:8000/api/dish/id - данные из рецепта с номером id</li>
+  <li>http://localhost:8000/api/dish/id - рецепт с номером id</li>
   <li>http://localhost:8000/api/dishes_in/?category=id - список рецептов в Категории</li>
 </ul>
 <br>
@@ -62,7 +63,7 @@ npm start
 
 http://localhost:3000/
 
-Пройдя по ссылкам с домашней странице, можно получить список рецептов блюд в выбранной Категории и затем пройти на страницу любого блюда из этого списка. 
+Пройдя по ссылкам с домашней страницы, можно получить список рецептов блюд в выбранной Категории и затем пройти на страницу любого блюда из этого списка. 
 
 <br>
 
